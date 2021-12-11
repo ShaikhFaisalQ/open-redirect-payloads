@@ -1,0 +1,23 @@
+\/google.com
+\/\/google.com
+\\google.com
+//yoururl.com
+//theirsite@google.com
+/\/google.com
+//%2F/google.com
+////google.com
+https://theirsite.computer/
+https://theirsite.com.google.com
+/%0D/google.com (Also try %09, %00, %0a, %07)
+/%2F/google.com
+/%5Cgoogle.com
+//google%E3%80%82com
+//google.com
+///google.com
+\/\/google.com
+/google%0a%http://0d.com 
+/google%http://00.com 
+/https:http://google.com
+/#/path///google.com
+/redirect?url=https://google.com
+//%2fevil.com/test/
